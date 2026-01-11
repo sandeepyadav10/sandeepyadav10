@@ -1,14 +1,61 @@
 <h1 align="center">Hi 👋, I'm Sandeep Yadav</h1>
-<h3 align="center">I am also very passionate learning new skill</h3>
+<h3 align="center">Backend Developer | Full-Stack Projects | Blockchain & AI Enthusiast</h3>
 
-- 🌱 I’m currently learning **Java,html,css,Javascript**
-
-- 📫 How to reach me **yadavsandeep3920@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/itsmesandeepyadavg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itsmesandeepyadavg" height="30" width="40" /></a>
+<p align="center">
+Computer Science undergraduate with hands-on experience in backend development,
+REST APIs, authentication, and real-world project building.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
+
+### 👨‍💻 About Me
+- Backend Intern with experience in **Node.js, MongoDB, and REST APIs**
+- Built production-level projects in **Blockchain, AI, and Full-Stack Development**
+- Comfortable working with authentication, databases, and API integrations
+- Actively preparing for **software developer roles**
+
+---
+
+### 💼 Experience
+**Backend Intern – eisystems**  
+*(Feb 2025 – Mar 2025)*  
+- Developed and tested REST APIs using Node.js and MongoDB  
+- Implemented JWT-based authentication  
+- Worked with Docker for local development  
+- Learned CI/CD fundamentals using GitHub Actions  
+- Collaborated on backend optimization and API integration  
+
+---
+
+### 🚀 Projects
+**Blockchain-Based Certificate Authentication System**  
+- Prevented certificate forgery using blockchain hashing  
+- Developed Solidity smart contracts  
+- Integrated Ethereum blockchain with backend using Web3.js  
+
+**AI Mock Interview Platform**  
+- Built AI-driven interview simulation system  
+- Integrated Google Gemini AI for question generation & feedback  
+- Deployed with Firebase and CI/CD automation  
+
+**Hospital Management System**  
+- Managed patients, doctors, appointments, and records  
+- Implemented role-based access control  
+- Optimized backend logic and database design  
+
+---
+
+### 🛠️ Skills
+**Programming:** Java (Core), Python (Basics), C (Basics)  
+**Backend:** Node.js, Express.js, REST APIs, JWT  
+**Frontend:** JavaScript (ES6+), React.js, Tailwind CSS  
+**Databases:** SQL, MySQL, MongoDB  
+**Blockchain:** Ethereum, Solidity, Smart Contracts, Web3.js  
+**DevOps:** Docker, GitHub Actions, Vercel  
+**AI Tools:** OpenAI API (Basics), Prompt Engineering  
+
+---
+
+### 📫 Contact
+- **Email:** yadavsandeep3920@gmail.com  
+- **LinkedIn:** https://linkedin.com/in/sandeep-yadav-514409280
